@@ -1,4 +1,4 @@
-# Traveling Salesman Problem
+# Application of Simulated Annealing to the Traveling Salesman Problem
 This repository contains the code and results from my final project for CBE 449: Numerical and Monte Carlo Methods in Engineering and Scientific Computing (Princeton University, Spring 2024).
 
 ## Abstract
